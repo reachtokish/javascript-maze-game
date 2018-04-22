@@ -1,0 +1,18 @@
+.row {
+  clear: both;    }
+.cell {
+  float: left;
+  border: 1px solid;
+  width: 30px;
+  height: 30px;
+}
+.food {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/55/c8/5f/55c85fe6b3b797e0ea92e2c15d447507.jpg");
+  background-size: 25px;
+  background-repeat: no-repeat;
+}
+.mario-location {
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/9/99/MarioSMBW.png");
+  background-size: 30px;
+  background-repeat: no-repeat;
+}
